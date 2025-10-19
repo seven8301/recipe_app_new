@@ -1,0 +1,16 @@
+# Flutter
+build/
+.dart_tool/
+.pub-cache/
+pubspec.lock
+
+# Python backend
+server/venv/
+__pycache__/
+uploads/
+*.pyc
+
+# System
+.DS_Store
+.idea/
+.vscode/
